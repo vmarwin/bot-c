@@ -11,6 +11,7 @@
 *.sln.docstates
 *.o
 *.sln
+*.vcxproj
 bot
 
 # User-specific files (MonoDevelop/Xamarin Studio)
